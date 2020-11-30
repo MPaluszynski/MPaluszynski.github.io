@@ -3,8 +3,10 @@
 
 ## Zwykły kod
 
-'''javascript
+'''js
+
 console.log("Hello world")
+
 '''
 
 ## Zwykły tekst
