@@ -1,3 +1,3 @@
 # MPaluszynski.github.io
 
-![link](./zzz.jpg)
+![link](./zzz.jpg| width=100)
