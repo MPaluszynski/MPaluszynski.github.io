@@ -1,3 +1,3 @@
 # MPaluszynski.github.io
 
-![](./zzz.jpg =500x500)
+![](./zzz.jpg | width=1000)
