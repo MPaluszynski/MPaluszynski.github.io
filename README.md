@@ -18,7 +18,7 @@ Layout oparty o stronę national geographic
 Oryginał: ![LINK](https://nicepage.com/s/12869/cutiest-home-pets-css-template)
 
 
-## Layout 2
+## Layout 3
 
 Layout oparty o stronę NASA
 
