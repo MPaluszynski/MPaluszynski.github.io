@@ -4,9 +4,7 @@
 ## Zwykły kod
 
 '''
-
 console.log("Hello world")
-
 '''
 
 ## Zwykły tekst
