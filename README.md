@@ -4,7 +4,7 @@
 
 Layout oparty o flexboxa do przeglądania zdjęć
 
-[](./L1.png)
+![](./L1.png)
 
 Pochodzi ze strony 30 days Javascript
 
@@ -22,6 +22,6 @@ Oryginał: [LINK](https://nicepage.com/s/12869/cutiest-home-pets-css-template)
 
 Layout oparty o stronę NASA
 
-[](./L3.png)
+![](./L3.png)
 
 Oryginał: ![LINK](https://dribbble.com/shots/3154943-NASA-website-concept/attachments/3154943?mode=media)
