@@ -3,7 +3,7 @@
 
 ## Zwykły kod
 
-''' js
+'''
 
 console.log("Hello world")
 
