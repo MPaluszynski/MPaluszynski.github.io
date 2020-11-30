@@ -1,11 +1,11 @@
-#Plik testowy
+# Plik testowy
 
 
-##Zwykły kod
+## Zwykły kod
 
 '''javascript
 console.log("Hello world")
 '''
 
-##Zwykły tekst
+## Zwykły tekst
 Lorem ipsum
